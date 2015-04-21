@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">流量红包演示程序</string>
+
+    <string name="action_settings">设置</string>
+    <string name="back">后退</string>
+    <string name="forward">前进</string>
+    <string name="stop">停止</string>
+    <string name="history">历史</string>
+    <string name="go">开始</string>
+    <string name="ok">OK</string>
+    <string name="cancel">取消</string>
+    <string name="download">下载</string>
+    <string name="question">你希望保持此文件吗?</string>
+    <string name="result">文件保存: </string>
+    <string name="clear">清空</string>
+    <string name="close">关闭</string>
+    <string name="stopping">停止中</string>
+    <string name="favicon">favicon</string>
+    <string name="noconnection">无可用网络连接</string>
+    <string name="error">出错啦</string>
+    <string name="nosd">存储空间不可用</string>
+</resources>
